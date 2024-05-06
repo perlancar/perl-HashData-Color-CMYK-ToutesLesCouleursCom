@@ -1,4 +1,4 @@
-package HashData::Color::CMYK::ToutesLesCouleursCom::Blue;
+package HashData::Color::CMYK::ToutesLesCouleursCom::White;
 
 use strict;
 use Role::Tiny::With;
@@ -14,7 +14,7 @@ with 'HashDataRole::Source::LinesInDATA';
 # STATS
 
 1;
-# ABSTRACT: Blue CMYK color names (from ToutesLesCouleursCom)
+# ABSTRACT: White CMYK color names (from ToutesLesCouleursCom)
 
 =head1 DESCRIPTION
 
