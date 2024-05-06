@@ -47,6 +47,6 @@ roux:0,54,95,32
 safran:0,12,91,5
 salmon:0,43,66,3
 tangerine:0,73,89,0
-tanné:0,49,99,35
+tanne:0,49,99,35
 vanilla:0,8,32,12
 belly doe:0,14,24,9

@@ -42,7 +42,7 @@ chestnut:0,15,30,50
 oxidized tin:0,0,0,27
 pure tin:0,0,0,7
 fumes:17,7,0,12
-grège:0,7,19,27
+grege:0,7,19,27
 steel grey:0,0,0,31
 charcoal grey:72,65,61,61
 payne grey:15,7,0,53

@@ -45,4 +45,4 @@ jet black:0,0,0,100
 black ink:0,0,0,100
 ivory black:0,0,0,100
 noiraud:0,36,70,82
-licorice,0,20,33,82
+licorice:0,20,33,82

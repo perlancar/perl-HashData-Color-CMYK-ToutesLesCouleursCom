@@ -48,7 +48,7 @@ walnut brou:0,46,94,75
 office:0,19,54,58
 cocoa:0,23,40,62
 cachou:0,43,74,82
-café:0,34,99,73
+cafe:0,34,99,73
 latte:0,22,61,53
 cannelle:0,30,58,51
 caramel:0,60,100,51
@@ -59,11 +59,11 @@ chocolate:0,36,62,65
 pumpkin:0,45,80,13
 fauve:0,54,95,32
 sheet-dead:0,47,72,40
-grège:0,7,19,27
+grege:0,7,19,27
 moorish grey:0,10,36,59
-lavallière:0,38,76,44
+lavalliere:0,38,76,44
 brown:0,53,100,65
-mordoré:0,34,81,47
+mordore:0,34,81,47
 hazel:0,42,73,42
 burnt orange:0,58,100,20
 chip:0,72,88,69
