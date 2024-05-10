@@ -1,4 +1,4 @@
-package HashData::Color::CMYK::ToutesLesCouleursCom::Brown;
+package HashData::ColorCode::CMYK::ToutesLesCouleursCom::Brown;
 
 use strict;
 use Role::Tiny::With;
